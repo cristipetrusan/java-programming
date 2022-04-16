@@ -1,0 +1,4 @@
+Suma : 27.0
+Media aritmetica : 4.5
+Maxim : 8
+Minim : 2

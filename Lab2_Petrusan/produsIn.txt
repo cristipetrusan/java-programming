@@ -1,0 +1,5 @@
+zahar;1.5;50
+ciocolata;2;100
+piersici;1;200
+nutella;10;20
+snickers;1.75;500

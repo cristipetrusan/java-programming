@@ -1,0 +1,2 @@
+produsul cu pret minim: piersici, pret: 1.0, cantitate: 200.0
+produsul cu pret maxim: nutella, pret: 10.0, cantitate: 20.0

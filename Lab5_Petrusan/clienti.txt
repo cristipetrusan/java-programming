@@ -1,0 +1,10 @@
+banca;ING
+banca;CEC Bank
+banca;BCR
+client;ING;Petrusan Cristi;Luncii Deva
+client;ING;Muntean Ovidiu;Aleea Studentilor Timisoara
+cont;ING;Petrusan Cristi;12345;500;RON;2020.10.10;2020.10.10
+cont;ING;Petrusan Cristi;12346;500;EUR;2020.10.10;2021.10.10
+cont;ING;Muntean Ovidiu;11111;400;EUR;2019.05.06;2021.05.06
+client;CEC Bank;Petrusan Ioan;Deva
+cont;CEC Bank;Petrusan Ioan;33333;100;EUR;2001.1.1;2016.2.2

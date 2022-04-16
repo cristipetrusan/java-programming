@@ -1,0 +1,6 @@
+Petrusan,developer,15.09.2020,1500
+Rus,doctor,15.09.2021,2500
+Popescu,sef,15.09.2018,3500
+Muresan,director,15.05.2021,2501
+Cartarescu,director,15.04.2021,2501
+Petrusan2,developer,15.09.2020,3002
